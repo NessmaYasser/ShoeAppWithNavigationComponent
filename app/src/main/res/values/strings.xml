@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_label">Email</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="password_label">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="create_new_login">Create new login</string>
+
+    <string name="welcome_label">Welcome</string>
+    <string name="welcome">Welcome,</string>
+    <string name="welcome_subtitle">To My Shoes market, where you can list your shoes</string>
+    <string name="next">Next</string>
+
+    <string name="instructions">Instructions</string>
+    <string name="instruction1">- You can see a list of your shoes from list screen.</string>
+    <string name="instruction2">- And You can add a new one from details screen.</string>
+
+    <string name="add_new_shoe">Add new shoe</string>
+    <string name="shoe_list">Shoe List</string>
+    <string name="logout">Logout</string>
+
+    <string name="shoe_detail_fragment">Shoe Detail Fragment</string>
+    <string name="shoe_name">Shoe Name:</string>
+    <string name="enter_shoe_name">Enter Shoe Name</string>
+    <string name="company">Company:</string>
+    <string name="enter_company">Enter Company</string>
+    <string name="shoe_size">Shoe Size:</string>
+    <string name="enter_shoe_size">Enter Shoe Size</string>
+    <string name="shoe_description">Description:</string>
+    <string name="enter_shoe_description">Write Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="please_fill_all_fields">please, Fill all fields</string>
+    <string name="add_shoe_data">Add Shoe data</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shoe_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="16dp"
+    android:paddingTop="8dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/shoe_name_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/text16Style" />
+
+    <TextView
+        android:id="@+id/shoe_company_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/text16Style" />
+
+    <TextView
+        android:id="@+id/shoe_size_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/text16Style" />
+
+    <TextView
+        android:id="@+id/shoe_description_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/text16Style" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorAccent" />
+
+</LinearLayout>
